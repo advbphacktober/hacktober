@@ -9,4 +9,10 @@ Almost done @3rd line
 cout<<"3/4"
 <br>
 <br>
-#Done
+$DATE = 2020/25/10
+Hacktoberfest # challenge 2020
+complete.status = (bool)True;
+cout<<"party";
+
+<br>
+# Done
