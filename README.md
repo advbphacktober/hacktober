@@ -112,3 +112,11 @@ cout<<"party";
 
 <br>
 # Done
+
+
+//it's a new year so here goes this year's entry:
+fest 2022 , let's start hacking
+<br>
+
+hack = to_merge + in_oct
+<br>
